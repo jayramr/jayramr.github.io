@@ -1,4 +1,9 @@
-sphinx-rtd-theme==0.5.1
-recommonmark==0.7.1
-docutils==0.16
-sphinx-copybutton
+sphinx-panels                       
+sphinx-rtd-theme                    
+sphinxcontrib-applehelp             
+sphinxcontrib-devhelp               
+sphinxcontrib-htmlhelp              
+sphinxcontrib-jquery                
+sphinxcontrib-jsmath                
+sphinxcontrib-qthelp                
+sphinxcontrib-serializinghtml       

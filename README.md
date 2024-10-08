@@ -6,7 +6,7 @@ Currently, I am working as a DevOps Engineer in the Core Bioinformatics team at 
 
 **Key Highlights:**
 
-* Experience in configuring open-source cloud technologies like OpenStack, Ansible, and terraform.
+* Experience in working open-source technologies like OpenStack, Ansible, and Terraform.
 * Expertise in building [Docker](https://www.docker.com/) images from scratch.
 * Proficient in CI/CD practices using GitHub, Jenkins, ArgoCD etc.
 * Excellent scripting skills in languages like Bash,Python and Perl.

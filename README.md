@@ -6,9 +6,9 @@ Currently, I am working as a DevOps Engineer in the Core Bioinformatics team at 
 
 **Key Highlights:**
 
-* Experience in working open-source technologies like OpenStack, Ansible, and Terraform.
+* Experience in working open-source technologies like Kubernetes, Ansible, and Terraform.
 * Expertise in building [Docker](https://www.docker.com/) images from scratch.
-* Proficient in CI/CD practices using GitHub, Jenkins, ArgoCD etc.
+* Proficient in CI/CD practices using GitHub Actions, Jenkins, ArgoCD, FluxCD, Gitlab Runner etc.
 * Excellent scripting skills in languages like Bash,Python and Perl.
 * Knowledgeable in automation workflow tools such as [Apache Airflow](https://airflow.apache.org/) and [Apache Kafka](https://kafka.apache.org/).
 * Hands-on experience with monitoring tools like Nagios, Prometheus, and Grafana.

@@ -13,6 +13,7 @@ Currently, I am working as a DevOps Engineer in the Core Bioinformatics team at 
 * Knowledgeable in automation workflow tools such as [Apache Airflow](https://airflow.apache.org/) and [Apache Kafka](https://kafka.apache.org/).
 * Hands-on experience with monitoring tools like Nagios, Prometheus, and Grafana.
 * Contributor of [Bioconda channel](https://bioconda.github.io/).
+* Honored to also have my profile listed on the official CNCF Kubestronaut page: [**Kubeastronaut**](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=ae&p=jayaram-radhakrishnan)
 
 
 ### Previous experiences
